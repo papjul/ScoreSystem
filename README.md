@@ -20,6 +20,11 @@ Give write CHMOD permission to the following folders:
 * images/mal/
 
 
+Demo
+-------------
+You can test this application here : http://amenysta-world.servhome.org/ScoreSystem/
+
+
 License
 -------------
 You can share, modify this application under GNU GPLv2+ terms available in the file LICENSE.
